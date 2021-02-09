@@ -129,5 +129,10 @@ dmypy.json
 .pyre/
 
 .idea
+
 db.sqlite3
+
+secret.txt
+
+*/migrations
 
