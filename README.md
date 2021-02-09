@@ -1,2 +1,2 @@
 # ello
-Bullet Jurnal App
+Bullet Journal App
